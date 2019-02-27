@@ -517,9 +517,11 @@ class Leetcode:
     def write_readme(self):
         """Write Readme to current folder"""
         languages_readme = ','.join([x.capitalize() for x in self.languages])
-        md = '''Leetcode Solutions with {language}
+        md = '''My Leetcode Solutions
 
 I have solved **{num_solved}   /   {num_total}** problems while there are **{num_lock}** problems still locked.
+
+Language: {language}
 
 Update time:  {tm}
 
