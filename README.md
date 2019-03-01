@@ -1,6 +1,6 @@
 # LeetHub
 
-🗳 LeetHub -- 将 LeetCode 代码同步到 GitHub ( Synchronize LeetCode code to GitHub. )
+🗳 LeetHub -- 将 LeetCode 代码同步到 GitHub (Synchronize LeetCode code to GitHub.)
 
 内容基于 [bonfy](https://github.com/bonfy) 的代码自动下载生成器。由于 bonfy 将生成器与自己的代码混合在一起使用并不是很方便，便将其单独提取出来。
 
